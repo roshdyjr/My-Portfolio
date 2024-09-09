@@ -89,7 +89,7 @@ export const projects = [
     id: 2,
     title: "FreshCart - E-Commerce & Shopping",
     des: "Effortlessly manage and shop for products with this e-commerce platform designed for a modern shopping experience.",
-    img: "/p1.png",
+    img: "/p2.PNG",
     iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/req.png", "/jwt3.svg"],
     link: "https://tinyurl.com/bdetyzeb",
     gitlink: "https://github.com/roshdyjr/FreshCartDep",
