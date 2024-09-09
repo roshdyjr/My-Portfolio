@@ -225,7 +225,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/whatsapp.png",
-    url: "https://wa.me/01148091272",
+    url: "https://wa.me/201148091272",
   },
   {
     id: 3,
