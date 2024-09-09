@@ -98,7 +98,7 @@ export const projects = [
     id: 3,
     title: "Yummy! - Food Recipes & Tutorials",
     des: "Your go-to app for food recipes and tutorials. Featuring recipes from all around the globe.",
-    img: "/p3.png",
+    img: "/p3.PNG",
     iconLists: [
       "/html.png",
       "/css3.svg",
@@ -122,7 +122,7 @@ export const projects = [
     id: 5,
     title: "Game Reviews - Discover the world of gaming",
     des: "Discover in-depth game analyses and insights to find your next favorite game.",
-    img: "/p5.png",
+    img: "/p5.PNG",
     iconLists: [
       "/html.png",
       "/css3.svg",
@@ -137,7 +137,7 @@ export const projects = [
     id: 6,
     title: "Weather Forecast - Know the world's weather",
     des: "Stay informed with real-time weather updates and forecasts for cities worldwide.",
-    img: "/p6.png",
+    img: "/p6.PNG",
     iconLists: [
       "/html.png",
       "/css3.svg",
