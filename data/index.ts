@@ -72,6 +72,21 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Cure Master - Health Management System",
+    des: "Create your appointments and keep track of them to check on your health!",
+    img: "/p7.jpeg",
+    iconLists: [
+      "/next.png",
+      "/tail.svg",
+      "/ts.png",
+      "/appwrite.png",
+      "/shad.png",
+    ],
+    link: "https://cure-master.vercel.app/",
+    gitlink: "https://github.com/roshdyjr/CureMaster",
+  },
+  {
+    id: 2,
     title: "FilmFlix - Discover Movies & TV Shows",
     des: " Get trailers, ratings, and details for movies and TV shows. Your go-to guide for cinematic content.",
     img: "/p1.PNG",
@@ -86,7 +101,7 @@ export const projects = [
     gitlink: "https://github.com/roshdyjr/FilmFlix",
   },
   {
-    id: 2,
+    id: 3,
     title: "FreshCart - E-Commerce & Shopping",
     des: "Effortlessly manage and shop for products with this e-commerce platform designed for a modern shopping experience.",
     img: "/p2.PNG",
@@ -95,7 +110,7 @@ export const projects = [
     gitlink: "https://github.com/roshdyjr/FreshCartDep",
   },
   {
-    id: 3,
+    id: 4,
     title: "Yummy! - Food Recipes & Tutorials",
     des: "Your go-to app for food recipes and tutorials. Featuring recipes from all around the globe.",
     img: "/p3.PNG",
@@ -110,7 +125,7 @@ export const projects = [
     gitlink: "https://github.com/roshdyjr/Yummy",
   },
   {
-    id: 4,
+    id: 5,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
@@ -119,7 +134,7 @@ export const projects = [
     gitlink: "https://github.com/roshdyjr/iPhone15Replica",
   },
   {
-    id: 5,
+    id: 6,
     title: "Game Reviews - Discover the world of gaming",
     des: "Discover in-depth game analyses and insights to find your next favorite game.",
     img: "/p5.PNG",
@@ -134,7 +149,7 @@ export const projects = [
     gitlink: "https://github.com/roshdyjr/gameReview",
   },
   {
-    id: 6,
+    id: 7,
     title: "Weather Forecast - Know the world's weather",
     des: "Stay informed with real-time weather updates and forecasts for cities worldwide.",
     img: "/p6.PNG",
@@ -148,6 +163,7 @@ export const projects = [
     link: "https://tinyurl.com/3mvkmsxv",
     gitlink: "https://github.com/roshdyjr/weather-forecast",
   },
+
 ];
 
 export const testimonials = [
